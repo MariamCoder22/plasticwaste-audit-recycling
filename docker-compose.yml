@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - BLOCKCHAIN_NETWORK=http://ganache:8545
+    depends_on:
+      - ganache
+
+  ganache:
+    image: trufflesuite/ganache:latest
+    ports:
+      - "8545:8545"
+    command:
+      -d
+      --wallet.seed=plastic_recycling
+      --miner.blockTime=3
