@@ -1,0 +1,10 @@
+tensorflow==2.12.0
+web3==6.0.0
+flask==2.2.3
+opencv-python==4.7.0.72
+numpy==1.24.3
+pandas==2.0.2
+onnx==1.13.1
+tf2onnx==1.14.0
+python-dotenv==1.0.0
+geopandas==0.12.2
