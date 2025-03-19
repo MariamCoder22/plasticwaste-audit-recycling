@@ -1,40 +1,28 @@
-# AI-Driven Plastic Waste Audit
+# AI-Driven Plastic Waste Audit & Gamified Recycling
 
-## 🚀 Overview
-The **AI-Driven Plastic Waste Audit** is an innovative solution that combines deep learning, blockchain, and optimization algorithms to tackle plastic waste management efficiently. By leveraging **EfficientNet**, **Solidity Smart Contracts**, **Genetic Algorithms**, and **Unity3D**, this project creates a robust ecosystem for plastic waste classification, auditing, and incentivization.
+## 🚀 Concept
+The **AI-Driven Plastic Waste Audit & Gamified Recycling** project leverages cutting-edge AI, blockchain, and gamification to enhance plastic waste management. Our approach involves:
+- Training a **vision model** (MobileNet, EfficientNet) to classify plastic waste types in images captured by drones or smartphone cameras.
+- Developing a **mobile app** that gamifies recycling by rewarding users with points for proper waste segregation.
+- Utilizing **reinforcement learning** to optimize collection routes for waste management trucks, reducing costs and environmental impact.
 
-### 🌎 Key Achievements
-- Developed a **blockchain-tracked recycling credits system** in collaboration with municipal partners.
-- Optimized collection routes, **reducing fuel costs by 35%** using advanced routing algorithms.
-- Built a mobile app achieving **94% waste classification accuracy** across six plastic types.
+## 🔥 Unique Twist
+This project brings innovation through:
+- **Blockchain Integration**: Using **Solidity smart contracts** to create a transparent and tamper-proof recycling credits system.
+- **Real-World Testing**: Partnering with **local municipalities** to pilot and refine the system in actual neighborhoods.
 
-## 🔥 Features
-
-### 1️⃣ AI-Powered Waste Classification (EfficientNet)
-- Utilizes **EfficientNet** CNN model to classify plastic waste into six categories with **94% accuracy**.
-- Edge-based deployment for real-time classification on mobile devices.
-- Continuous learning approach to improve classification over time.
-
-### 2️⃣ Blockchain-Based Recycling Credits (Solidity & Smart Contracts)
-- A **trustless incentive system** for verified plastic recycling.
-- Immutable and transparent recycling records using **Ethereum Smart Contracts**.
-- Integration with municipal partners for real-world adoption.
-
-### 3️⃣ Route Optimization for Waste Collection (Genetic Algorithms)
-- Uses **Genetic Algorithms** to compute the most efficient routes for waste collection.
-- Optimized vehicle scheduling to reduce fuel consumption and **minimize carbon footprint**.
-- Real-time adjustments based on collection demand and traffic conditions.
-
-### 4️⃣ Interactive Simulation & Mobile App (Unity3D)
-- A **Unity3D-based mobile application** to visualize waste collection and processing.
-- Gamification elements to encourage public participation in waste sorting and recycling.
-- Augmented reality (AR) feature for interactive waste identification and classification.
+## 🌎 Why It Stands Out
+Our approach tackles **circular economy challenges** by combining:
+- **AI-driven waste classification** for accuracy and efficiency.
+- **Blockchain-powered incentives** to encourage responsible recycling.
+- **Gamification and behavioral science** to drive engagement.
+- **Optimization algorithms** to reduce fuel consumption and enhance sustainability.
 
 ## 🛠️ Tech Stack
-- **Machine Learning:** TensorFlow, EfficientNet
+- **Machine Learning:** TensorFlow, MobileNet, EfficientNet
 - **Blockchain:** Ethereum, Solidity, Web3.js
-- **Optimization Algorithms:** Genetic Algorithms, Network Optimization
-- **Mobile & Simulation:** Unity3D, C#, AR Toolkit
+- **Optimization:** Reinforcement Learning, Genetic Algorithms
+- **Mobile & Gamification:** Unity3D, AR Toolkit
 - **Backend & API:** Flask, FastAPI, PostgreSQL
 - **Cloud & Deployment:** AWS, Docker, Kubernetes
 
@@ -75,14 +63,14 @@ uvicorn app:main --reload
 ```
 
 ## 🎯 Usage
-- **Mobile App:** Scan plastic waste using the camera, and get real-time classification feedback.
-- **Recycling Credits:** Users earn tokens for verified recycling and can redeem them for rewards.
-- **Collection Optimization:** Municipalities access optimized waste pickup routes via the dashboard.
+- **Mobile App:** Scan plastic waste using the camera and get real-time classification feedback.
+- **Recycling Credits:** Earn blockchain-based tokens for verified recycling efforts.
+- **Optimized Collection:** Municipal waste managers access AI-driven pickup route suggestions.
 
 ## 📊 Results & Impact
 - **35% Reduction in fuel costs** for waste collection routes.
 - **94% accuracy** in plastic classification.
-- **Successful pilot program** with municipal partners leading to increased recycling rates.
+- **Successful pilot programs** with municipal partners leading to increased recycling rates.
 
 ## 📖 Future Enhancements
 - Expand AI model to classify more waste types (glass, metal, paper, etc.).
@@ -96,5 +84,5 @@ Contributions are welcome! Please submit a pull request or raise an issue.
 This project is licensed under the MIT License.
 
 ---
-🚀 **Join us in revolutionizing waste management with AI & Blockchain!** 🌱
+🚀 **Join us in revolutionizing waste management with AI, Blockchain & Gamification!** 🌱
 
