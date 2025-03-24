@@ -1,7 +1,7 @@
 # AI-Driven Plastic Waste Audit & Gamified Recycling
 
 ## 🚀 Concept
-The **AI-Driven Plastic Waste Audit & Gamified Recycling** project leverages cutting-edge AI, blockchain, and gamification to enhance plastic waste management. Our approach involves:
+The **AI-Driven Plastic Waste Audit & Gamified Recycling** project leverages cutting-edge AI, blockchain, and gamification to enhance plastic waste management. My approach involves:
 - Training a **vision model** (MobileNet, EfficientNet) to classify plastic waste types in images captured by drones or smartphone cameras.
 - Developing a **mobile app** that gamifies recycling by rewarding users with points for proper waste segregation.
 - Utilizing **reinforcement learning** to optimize collection routes for waste management trucks, reducing costs and environmental impact.
